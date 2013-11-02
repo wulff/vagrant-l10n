@@ -15,17 +15,14 @@ Vagrant::configure('2') do |config|
     puppet.module_path = 'puppet/modules'
   end
 
-  # setup localization node
-  config.vm.define :l10n, {:primary => true} do |l10n|
-    # configure network
-    l10n.vm.hostname = 'l10n.local'
-    l10n.vm.network :private_network, ip: '33.33.33.10'
+  # configure network
+  config.vm.hostname = 'l10n.local'
+  config.vm.network :private_network, ip: '33.33.33.10'
 
-    # configure memory and node name
-    config.vm.provider 'virtualbox' do |v|
-      v.name = 'Vagrant L10N'
-      v.customize ['modifyvm', :id, '--memory', 1024]
-      v.gui = true
-    end
+  # configure memory and node name
+  config.vm.provider 'virtualbox' do |v|
+    v.name = 'Vagrant L10N'
+    v.customize ['modifyvm', :id, '--memory', 1024]
+    v.gui = true
   end
 end
