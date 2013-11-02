@@ -6,6 +6,6 @@ node "basenode" {
   }
 }
 
-node "l10n.local" inherits "basenode" {
+node "l10n.vagrant.ratatosk.net" inherits "basenode" {
   class { 'l10nbox': }
 }

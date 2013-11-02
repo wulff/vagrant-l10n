@@ -16,7 +16,7 @@ Vagrant::configure('2') do |config|
   end
 
   # configure network
-  config.vm.hostname = 'l10n.local'
+  config.vm.hostname = 'l10n.vagrant.ratatosk.net'
   config.vm.network :private_network, ip: '33.33.33.10'
 
   # configure memory and node name
