@@ -1,0 +1,5 @@
+# set the correct keyboard map to get danish characters to work
+setxkbmap -model macbook78 -layout dk
+
+# start the localization tool
+lokalize &

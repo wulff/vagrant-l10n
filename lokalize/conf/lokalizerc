@@ -1,0 +1,70 @@
+[Appearance]
+MsgFont=Sans Serif,9,-1,5,50,0,0,0,0,0
+
+[Identity]
+DefaultLangCode=da
+DefaultMailingList=
+authorEmail=wulff@ratatosk.net
+authorLocalizedName=Morten Wulff
+authorName=Morten Wulff
+
+[KFileDialog Settings]
+Height 600=600
+Height 800=800
+Recent Files[$e]=drupal-da.lokalize,/vagrant/po/drupal/drupal-da.lokalize
+Width 1280=1280
+Width 800=800
+
+[MainWindow]
+Height 1200=1200
+Height 600=600
+Height 800=800
+State=AAAA/wAAAAD9AAAAAAAABQAAAAL2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+TMSearchResultsHeaderState=AAAA/wAAAAAAAAABAAAAAAAAAAMBAAAAAAAAAAAAAAAIcAAAAAMAAAAGAAAAZAAAAAUAAABkAAAABAAAAGQAAAMKAAAACAEBAAEAAAAAAAAAAAAAAABk/////wAAAIEAAAAAAAAAAwAAAZAAAAAEAAAAAAAAAAAAAAADAAAAAAAAAXoAAAABAAAAAA==
+ToolBarsMovable=Disabled
+TreeHeaderState=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAFAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAAMAAAAAEAAAAAAAABkAAAAAQAAAAA
+Width 1280=1280
+Width 1600=1600
+Width 800=800
+
+[ProjectWindow]
+ListHeaderState=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAABOoAAAAJAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAEAAABLAAAAAEAAAAAAAAA+gAAAAUAAAAAAAABkAAAAAIAAAAAAAABNAAAAAEAAAAA
+
+[Recent Dirs]
+tm-food[$e]=file:///vagrant/po/drupal,$HOME/Documents
+
+[RecentFiles-/vagrant/po/drupal/drupal-da.lokalize]
+File1[$e]=/vagrant/po/drupal/drupal-7.23.da.po
+File2[$e]=/vagrant/po/drupal/views-7.x-3.7.da.po
+File3[$e]=/vagrant/po/drupal/drupal-8.0-alpha3.da.po
+Name1[$e]=drupal-7.23.da.po
+Name2[$e]=views-7.x-3.7.da.po
+Name3[$e]=drupal-8.0-alpha3.da.po
+
+[RecentProjects]
+File1[$e]=/vagrant/po/drupal/drupal-da.lokalize
+File2[$d]
+Name1[$e]=drupal-da.lokalize
+Name2[$d]
+
+[State]
+Project=/vagrant/po/drupal/drupal-da.lokalize
+
+[State-]
+Active=-1
+DockWidgets=
+Entries=
+Files=
+MergeFiles=
+
+[State-/vagrant/po/drupal/drupal-da.lokalize]
+Active=0
+DockWidgets=AAAA/wAAAAD9AAAAAgAAAAAAAAFjAAAB3fwCAAAAAvsAAAAeAGMAYQB0AGEAbABvAGcAVAByAGUAZQBWAGkAZQB3AQAAAAAAAAHdAAAAbAD////7AAAAFgBtAHMAZwBDAHQAeAB0AFYAaQBlAHcAAAAA5gAAAPcAAABRAP///wAAAAMAAAUAAAAA+/wBAAAABvsAAAASAG0AcwBnAEkAZABEAGkAZgBmAAAAAAAAAADUAAAARgD////7AAAAIgBtAGUAcgBnAGUAVgBpAGUAdwAtAHAAcgBpAG0AYQByAHkAAAAAAP////8AAABGAP////sAAAAmAG0AZQByAGcAZQBWAGkAZQB3AC0AcwBlAGMAbwBuAGQAYQByAHkAAAAAAP////8AAABGAP////sAAAAMAFQATQBWAGkAZQB3AQAAAAAAAAMgAAAARgD////7AAAAGABnAGwAbwBzAHMAYQByAHkAVgBpAGUAdwEAAAMmAAAB2gAAAEYA////+wAAABAAYgBpAG4AVQBuAGkAdABzAAAAAAD/////AAAARgD///8AAAOXAAAB3QAAAAQAAAAEAAAACAAAAAj8AAAAAA==
+Entries=6643
+Files=/vagrant/po/drupal/drupal-8.0-alpha3.da.po
+MergeFiles=\\0
+UnitsCount=13285
+
+[TM]
+PrefetchTM=true
+ScanToTMOnOpen=true
